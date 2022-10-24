@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.button-click{
+  width: 33%;
+  height: 50px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
